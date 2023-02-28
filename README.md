@@ -5,7 +5,7 @@ Developer, Human, Knowledge Driven.
 -----------------------------------
 
 *   🌍  I'm based in Oakland, CA.
-*   🖥️  See my portfolio at [angelz.dev](http://https://angelz.dev/)
+*   🖥️  See my portfolio at [angelz.dev](https://angelz.dev/)
 *   ✉️  You can contact me at [angelzrod4@gmail.com](mailto:angelzrod4@gmail.com)
 *   🧠  I'm learning Typescript
 *   ⚡  When I'm not coding I'm exploring Hyrule or home spraying my plants.
